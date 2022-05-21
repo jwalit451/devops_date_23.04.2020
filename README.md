@@ -7,7 +7,6 @@ packages(jar, ear,war) for java based projects.
 ```bash
 mvn clean package
 ```
-
 ## Create Docker Image
 Docker is a continerization tool.Using docker we can deploy our applications as 
 
